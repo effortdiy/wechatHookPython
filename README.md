@@ -1,5 +1,6 @@
-# h.hook
-有关PC微信消息的hook
+# wechatHookPython
+可实现hook PC微信消息的实时接收处理。
+frida使用简单快捷。内部原理也是内联hook方式。
 
 ## 运行环境
 - 语言python 3.7
